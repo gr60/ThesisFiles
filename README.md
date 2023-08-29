@@ -30,3 +30,15 @@ Other Directories:
     /inference_engine/ontology_files: Stores ontology files, including the Beers Criteria ontology and patient data ontologies.
 
     /results/CDSS: Stores results obtained from result_queries.
+
+
+
+TheBeersCriteriaOntology.owl
+
+    The file is composed of classes, object and data properties, annotation properties, and SWRL rules for detecting inappropriate drugs and suggesting alternative drugs. This file can be conveniently opened using the Protégé software.
+
+    SWRL rules can be visualized in Protégé using the SWRLTab. If it is not visible, follow these steps:
+
+    Click on the menu "Windows."
+    Navigate to "Tab."
+    Select "SWRLTab."
