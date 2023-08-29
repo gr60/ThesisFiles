@@ -1,0 +1,13 @@
+Cython
+cytoolz
+et-xmlfile
+numpy
+openpyxl==3.0.10
+Owlready2
+pandas==1.5.0
+python-dateutil
+pytz
+six
+toolz
+z3-solver
+XlsxWriter==3.1.2
